@@ -13,6 +13,11 @@ projects[sausage][download][url] = http://git.drupal.org/sandbox/ingaro/1271834.
 
 
 ; Modules
+projects[] = ctools
+projects[] = entity
+projects[] = field_collection
+projects[] = panels
+projects[] = views
 
 
 ; Libraries.
